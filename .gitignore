@@ -10,3 +10,6 @@ tools/endcard/node_modules/
 tools/endcard/frames/
 tools/endcard/test_frames/
 tools/endcard/test.png
+# Generated clips and renders are large; tracked by job ID in projects/*/media.json
+projects/*/clips/**/*.mp4
+projects/*/renders/*.mp4

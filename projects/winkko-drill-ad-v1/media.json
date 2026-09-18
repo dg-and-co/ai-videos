@@ -50,7 +50,8 @@
     "kf4_profile_v2": "cc96bb0d-c6b0-4b74-9b8e-a9df8b1790e7",
     "kf4_profile_v1_rejected": "aced1ef0-ec66-4b9d-a605-67b4e3d2dd41",
     "kf5a_drill_start": "c6341683-44bb-4f5c-a99e-b77dbc17c5ce",
-    "kf5b_drill_end": "cf260ae1-c4d3-4156-bbdb-21bf76ff3ca3"
+    "kf5b_drill_end": "cf260ae1-c4d3-4156-bbdb-21bf76ff3ca3",
+    "kf3a_v2_slide_start_behind": "978330dc-e8b9-4617-a8c4-baef7436be08"
   },
   "video_jobs_seedance_2_5_1080p_4s": {
     "pass": 1,
@@ -59,6 +60,8 @@
     "shot2": "b21c58df-c688-4708-9272-d36154b946fe",
     "shot3": "60b3c15d-734c-4f3d-82dc-dcdf0d3a8f20",
     "shot4": "2f03ebe9-309c-4564-bbac-3d2ac28a36b3",
-    "shot5": "ea64b83a-218e-4a24-aa14-4ca568cad638"
+    "shot5": "ea64b83a-218e-4a24-aa14-4ca568cad638",
+    "shot3_reshoot_slide": "9b8a3a99-2fb7-41b8-8a8b-823655e50609",
+    "shot4_reshoot_rotate": "99e5c0b6-a6f5-4f28-8fb3-8f0f65aa3686"
   }
 }
