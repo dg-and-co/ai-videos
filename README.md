@@ -61,3 +61,10 @@ Try asking:
 - Higgsfield also ships a standalone CLI (`npm i -g @higgsfield/cli`) with
   companion skills (`npx skills add higgsfield-ai/skills`). That is optional
   and independent of the MCP connection above.
+
+## Repository layout
+
+- `assets/brand/` — logo and end-card source
+- `assets/product/` — product photography used as generation references
+- `assets/reference/` — reference footage (large video files are git-ignored; see each project's `media.json`)
+- `projects/<name>/` — one folder per video: `SCRIPT.md` (shot list and plan) and `media.json` (Higgsfield media IDs)

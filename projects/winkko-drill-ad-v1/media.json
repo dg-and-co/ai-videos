@@ -1,0 +1,45 @@
+{
+  "workspace_id": "bf282b9c-c2f1-4ce3-8065-5d248d12ea09",
+  "uploaded": "2026-09-18",
+  "images": {
+    "logo_endcard_source": {
+      "media_id": "f205884d-50a7-41b1-91cc-c5cfd3f415c7",
+      "file": "assets/brand/winkko-logo-endcard-source.jpg",
+      "note": "1080x1920 reference end card: logo lockup, slogan, address"
+    },
+    "drill_hero_3q": {
+      "media_id": "1524cd8a-cc33-4947-992d-1a6b8d907bf1",
+      "file": "assets/product/drill-hero-3q.png",
+      "note": "Primary product reference. 3/4 front view, 2.0Ah battery, dark studio"
+    },
+    "battery_2ah_hero": {
+      "media_id": "cb1eb458-df74-4820-8b1e-a3a3a286efa9",
+      "file": "assets/product/battery-2ah-hero.png",
+      "note": "Battery alone, top-down 3/4, LED fuel gauge visible"
+    },
+    "drill_side_4ah": {
+      "media_id": "5b3da188-1030-43bd-9b5b-59c5bc243f9a",
+      "file": "assets/product/drill-side-4ah.png",
+      "note": "Side profile on white, 4.0Ah battery (use for silhouette only)"
+    },
+    "battery_4ah_led_detail": {
+      "media_id": "10a91397-4c2d-41c1-b8f9-c697a106f811",
+      "file": "assets/product/battery-4ah-led-detail.png",
+      "note": "Work light on, red battery latch, 4.0Ah label"
+    }
+  },
+  "videos": {
+    "reference_drill_commercial": {
+      "media_id": "2a3a9822-223b-4cd9-9ab1-1bf5b81ac70e",
+      "file": "assets/reference/reference-drill-commercial.mp4",
+      "url": "https://d2ol7oe51mr4n9.cloudfront.net/user_38FjZE0E8EqnCTkaMykEWGfHyO1/2a3a9822-223b-4cd9-9ab1-1bf5b81ac70e.mp4",
+      "note": "10 s, 2160x3840, 24 fps, AAC stereo. Not committed to git (19.5 MB); kept locally and in Higgsfield storage"
+    }
+  },
+  "cost_preflight_credits": {
+    "cinematic_studio_video_v2_9s_pro_9x16": 18,
+    "kling3_0_5s_pro_9x16": 10,
+    "seedance_2_5_5s_1080p_9x16": 45,
+    "nano_banana_pro_still_9x16": 2
+  }
+}

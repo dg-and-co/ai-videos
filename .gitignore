@@ -1,2 +1,5 @@
 # Claude Code per-machine settings (MCP approvals, local permissions)
 .claude/settings.local.json
+
+# Large reference footage lives in Higgsfield storage (see projects/*/media.json)
+assets/reference/*.mp4
