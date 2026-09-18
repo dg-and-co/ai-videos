@@ -3,3 +3,6 @@
 
 # Large reference footage lives in Higgsfield storage (see projects/*/media.json)
 assets/reference/*.mp4
+
+# Full-resolution generated frames are large; previews and job IDs are tracked instead
+projects/*/keyframes/**/*.png

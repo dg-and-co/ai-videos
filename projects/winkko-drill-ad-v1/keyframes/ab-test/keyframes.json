@@ -1,0 +1,39 @@
+{
+  "shot": 2,
+  "purpose": "A/B/C keyframe model test, same prompt and references",
+  "candidates": [
+    {
+      "label": "A",
+      "model": "nano_banana_pro",
+      "job_id": "f1ab98f4-5092-4d6d-b018-fc636d88628f",
+      "size": [
+        1536,
+        2752
+      ],
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38FjZE0E8EqnCTkaMykEWGfHyO1/hf_20260918_130709_f1ab98f4-5092-4d6d-b018-fc636d88628f.png",
+      "verdict": "usable: product identity, labels and lighting all correct"
+    },
+    {
+      "label": "B",
+      "model": "soul_cinematic",
+      "job_id": "c0c01394-0084-4238-a1ee-9cee07113f9b",
+      "size": [
+        1152,
+        2048
+      ],
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38FjZE0E8EqnCTkaMykEWGfHyO1/hf_20260918_130706_c0c01394-0084-4238-a1ee-9cee07113f9b.png",
+      "verdict": "rejected: prompt was dropped by the model, product redrawn as a different tool lying on the floor, no branding"
+    },
+    {
+      "label": "C",
+      "model": "gpt_image_2_5",
+      "job_id": "6cfcfe4c-168b-42c9-854d-f06b7e0e8eb3",
+      "size": [
+        1520,
+        2688
+      ],
+      "url": "https://d8j0ntlcm91z4.cloudfront.net/user_38FjZE0E8EqnCTkaMykEWGfHyO1/hf_20260918_130707_6cfcfe4c-168b-42c9-854d-f06b7e0e8eb3.png",
+      "verdict": "usable: product identity correct, punchier contrast and red rim, drill larger in frame"
+    }
+  ]
+}
