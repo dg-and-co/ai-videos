@@ -41,5 +41,24 @@
     "kling3_0_5s_pro_9x16": 10,
     "seedance_2_5_5s_1080p_9x16": 45,
     "nano_banana_pro_still_9x16": 2
+  },
+  "keyframes_gpt_image_2_5": {
+    "kf1_ignition": "a6df34d1-609b-468d-8316-0e2c0d0d219f",
+    "kf2_hero": "6cfcfe4c-168b-42c9-854d-f06b7e0e8eb3",
+    "kf3a_slide_start": "223f1db1-81ec-486d-89ce-3a55dd3b272f",
+    "kf3b_slide_end": "0e21b673-fe51-4859-b74f-845ec4315452",
+    "kf4_profile_v2": "cc96bb0d-c6b0-4b74-9b8e-a9df8b1790e7",
+    "kf4_profile_v1_rejected": "aced1ef0-ec66-4b9d-a605-67b4e3d2dd41",
+    "kf5a_drill_start": "c6341683-44bb-4f5c-a99e-b77dbc17c5ce",
+    "kf5b_drill_end": "cf260ae1-c4d3-4156-bbdb-21bf76ff3ca3"
+  },
+  "video_jobs_seedance_2_5_1080p_4s": {
+    "pass": 1,
+    "declined_preset_id": "24bae836-2c4a-48e0-89b6-49fcc0b21612",
+    "shot1": "71b3bee0-959c-49c7-b792-fadc93ebf7e7",
+    "shot2": "b21c58df-c688-4708-9272-d36154b946fe",
+    "shot3": "60b3c15d-734c-4f3d-82dc-dcdf0d3a8f20",
+    "shot4": "2f03ebe9-309c-4564-bbac-3d2ac28a36b3",
+    "shot5": "ea64b83a-218e-4a24-aa14-4ca568cad638"
   }
 }
